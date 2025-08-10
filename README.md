@@ -4,6 +4,8 @@ A demo implementation of **fractal image compression** in Rust, featuring a CPU-
 
 This project is primarily educational — exploring how fractal image encoding works under the hood — and is not intended for production use. Video explanation and theory can be found in: LINK_TO_BE_ADDED
 
+Note that results will NOT look good... I'll have to better setup the GPU compute so proper-sized images (1000x1000+) can actually be used. PROOF OF CONCEPT
+
 ---
 
 ## ✨ Features
